@@ -1,2 +1,2 @@
-# js-snippets
+# JavaScript snippets
 Various reusable JavaScript snippets
