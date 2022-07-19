@@ -9,6 +9,12 @@ const getRandomNumber = (min, max) => Math.round(Math.random() * (max - min) + m
 getRandomNumber(2, 10)
 ```
 
+### Generate random HEX color
+
+```javascript
+const hex = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
+```
+
 ### Generate uuid
 
 ```javascript
